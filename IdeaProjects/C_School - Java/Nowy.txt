@@ -1,0 +1,8 @@
+Quad2{idxWlasny=1, marka='Zmyślona', pojemnoscSilnika=100, minimalnaPredkosc=0, maksymalnaPredkosc=50}
+Quad2{idxWlasny=2, marka='Suzuki', pojemnoscSilnika=200, minimalnaPredkosc=100, maksymalnaPredkosc=500}
+Quad2{idxWlasny=3, marka='yamaha', pojemnoscSilnika=200, minimalnaPredkosc=11, maksymalnaPredkosc=22}
+Quad2{idxWlasny=4, marka='kymko', pojemnoscSilnika=100, minimalnaPredkosc=11, maksymalnaPredkosc=22}
+Quad2{idxWlasny=1, marka='Zmyślona', pojemnoscSilnika=100, minimalnaPredkosc=0, maksymalnaPredkosc=50}
+Quad2{idxWlasny=2, marka='Suzuki', pojemnoscSilnika=200, minimalnaPredkosc=100, maksymalnaPredkosc=500}
+Quad2{idxWlasny=3, marka='yamaha', pojemnoscSilnika=200, minimalnaPredkosc=11, maksymalnaPredkosc=22}
+Quad2{idxWlasny=4, marka='kymko', pojemnoscSilnika=100, minimalnaPredkosc=11, maksymalnaPredkosc=22}

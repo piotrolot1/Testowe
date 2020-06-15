@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0db1641-c659-4830-8f8c-813f4b4bc79d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cZh4wmqvbeKWx61nazyKlmCDtk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0db1641-c659-4830-8f8c-813f4b4bc79d" name="Default Changelist" comment="" />
+      <created>1590741834613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590741834613</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1464" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590742277431">
+      <screen x="-1920" y="-18" width="1920" height="1177" />
+    </state>
+    <state x="-1464" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-18.1920.1177/0.23.1440.806@-1920.-18.1920.1177" timestamp="1590742277431" />
+    <state width="1397" height="207" key="GridCell.Tab.0.bottom" timestamp="1590741934271">
+      <screen x="-1920" y="-18" width="1920" height="1177" />
+    </state>
+    <state width="1397" height="207" key="GridCell.Tab.0.bottom/-1920.-18.1920.1177/0.23.1440.806@-1920.-18.1920.1177" timestamp="1590741934271" />
+    <state width="1397" height="207" key="GridCell.Tab.0.center" timestamp="1590741934270">
+      <screen x="-1920" y="-18" width="1920" height="1177" />
+    </state>
+    <state width="1397" height="207" key="GridCell.Tab.0.center/-1920.-18.1920.1177/0.23.1440.806@-1920.-18.1920.1177" timestamp="1590741934270" />
+    <state width="1397" height="207" key="GridCell.Tab.0.left" timestamp="1590741934269">
+      <screen x="-1920" y="-18" width="1920" height="1177" />
+    </state>
+    <state width="1397" height="207" key="GridCell.Tab.0.left/-1920.-18.1920.1177/0.23.1440.806@-1920.-18.1920.1177" timestamp="1590741934269" />
+    <state width="1397" height="207" key="GridCell.Tab.0.right" timestamp="1590741934270">
+      <screen x="-1920" y="-18" width="1920" height="1177" />
+    </state>
+    <state width="1397" height="207" key="GridCell.Tab.0.right/-1920.-18.1920.1177/0.23.1440.806@-1920.-18.1920.1177" timestamp="1590741934270" />
+    <state x="-1420" y="70" key="SettingsEditor" timestamp="1590742138671">
+      <screen x="-1920" y="-18" width="1920" height="1177" />
+    </state>
+    <state x="-1420" y="70" key="SettingsEditor/-1920.-18.1920.1177/0.23.1440.806@-1920.-18.1920.1177" timestamp="1590742138671" />
+  </component>
+</project>

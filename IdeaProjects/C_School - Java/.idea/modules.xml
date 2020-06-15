@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/C_School/C_School.iml" filepath="$PROJECT_DIR$/C_School/C_School.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C_School - Java.iml" filepath="$PROJECT_DIR$/C_School - Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kartkówka/Kartkówka.iml" filepath="$PROJECT_DIR$/Kartkówka/Kartkówka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MojeProjekty/MojeProjekty.iml" filepath="$PROJECT_DIR$/MojeProjekty/MojeProjekty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zad 1/Zad 1.iml" filepath="$PROJECT_DIR$/Zad 1/Zad 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zad 10 Talia/Zad 10 Talia.iml" filepath="$PROJECT_DIR$/Zad 10 Talia/Zad 10 Talia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zad 11 Interface/Zad 11 Interface.iml" filepath="$PROJECT_DIR$/Zad 11 Interface/Zad 11 Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zad 12 Array,Set,Map/Zad 12 Array,Set,Map.iml" filepath="$PROJECT_DIR$/Zad 12 Array,Set,Map/Zad 12 Array,Set,Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zad 13 Comparator,Comparable/Zad 13 Comparator,Comparable.iml" filepath="$PROJECT_DIR$/Zad 13 Comparator,Comparable/Zad 13 Comparator,Comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zad 14 Dziedziczenie/Zad 14 Dziedziczenie.iml" filepath="$PROJECT_DIR$/Zad 14 Dziedziczenie/Zad 14 Dziedziczenie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zad 14 Dziedziczenie cz2/Zad 14 Dziedziczenie cz2.iml" filepath="$PROJECT_DIR$/Zad 14 Dziedziczenie cz2/Zad 14 Dziedziczenie cz2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zad 15 OkienkoLogowania/Zad 15 OkienkoLogowania.iml" filepath="$PROJECT_DIR$/Zad 15 OkienkoLogowania/Zad 15 OkienkoLogowania.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zad 16 ListenerOkienkoLog cz2/Zad 16 ListenerOkienkoLog cz2.iml" filepath="$PROJECT_DIR$/Zad 16 ListenerOkienkoLog cz2/Zad 16 ListenerOkienkoLog cz2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zad 17 ExeptionsMaven/Zad 17 ExeptionsMaven.iml" filepath="$PROJECT_DIR$/Zad 17 ExeptionsMaven/Zad 17 ExeptionsMaven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zad 18 Animacja/Zad 18 Animacja.iml" filepath="$PROJECT_DIR$/Zad 18 Animacja/Zad 18 Animacja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zad 18 Rysowanie/Zad 18 Rysowanie.iml" filepath="$PROJECT_DIR$/Zad 18 Rysowanie/Zad 18 Rysowanie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zad 9 ToString, Sety, Zapis/Zad 9 ToString, Sety, Zapis.iml" filepath="$PROJECT_DIR$/Zad 9 ToString, Sety, Zapis/Zad 9 ToString, Sety, Zapis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadania 6/Zadania 6.iml" filepath="$PROJECT_DIR$/Zadania 6/Zadania 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadania 7/Zadania 7.iml" filepath="$PROJECT_DIR$/Zadania 7/Zadania 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadania 8/Zadania 8.iml" filepath="$PROJECT_DIR$/Zadania 8/Zadania 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadania2/Zadania2.iml" filepath="$PROJECT_DIR$/Zadania2/Zadania2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadania4/Zadania4.iml" filepath="$PROJECT_DIR$/Zadania4/Zadania4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadania5/Zadania5.iml" filepath="$PROJECT_DIR$/Zadania5/Zadania5.iml" />
+    </modules>
+  </component>
+</project>
