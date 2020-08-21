@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <link rel="stylesheet" type="text/css" href="mainNav.css">
+
+
+
+
+
+
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+          integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+</head>
+<body>
+
+
+<!---------------------------------------------- NAVBAR ----------------------------------------------->
+<title>AudioFeel</title>
+<nav class="navbar navbar-expand-md">
+    <a href="/home"> <img src="https://server107178.nazwa.pl/Priv/Zdjecia/bidder/LogoB.png" alt="logo" width="150px"></a>
+    <button class="navbar-toggler navbar-dark" type="button" data-toggle="collapse" data-target="#main-navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="main-navigation">
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="/onas">O nas</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/zasady">Zasady</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/kontakt">Kontakt</a>
+        </ul>
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="/logowanie">Logowanie</a>
+            <li class="nav-item">
+                <a class="nav-link" href="/rejestracja">Rejestracja</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+<!----------------------------------------------END NAVBAR----------------------------------------------->
+
+<h1> Tu idzie dalej wszystko </h1>
+
+<div class="container">
+    <h2>Aligning images</h2>
+    <p>Use the float classes to float the image to the left or to the right:</p>
+    <img src="paris.jpg" class="float-left" alt="Paris" width="304" height="236">
+    <img src="paris.jpg" class="float-right" alt="Paris" width="304" height="236">
+</div>
+
+<tr th:each="user : ${listaUser}"> // TODO: tutaj skończłem zamieniać na listaSQL al ewyjebało
+    <td th:text="${user.getLogin()}"></td>
+    <td th:text="${user.getPassword()}"></td>
+</tr>
+
+
+
+
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+        integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
